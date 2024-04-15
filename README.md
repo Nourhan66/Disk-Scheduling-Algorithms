@@ -2,7 +2,7 @@
     - This guide will help you visualize disc schedualing techniques using GUI.
     
 # Note
-   -You need to edit the full path of the assets inside GUI.py file line 13 
+   - You need to edit the full path of the assets inside GUI.py file line 13 
     put the full path of frame0 folder in assets folder
 
 # Instructions for Running the Project
