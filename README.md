@@ -19,9 +19,10 @@
 
 5. for SCAN and LOOK it's required to provide direction and other data before pressing display.
 
-6. For direction field you must input 'i' for inner and 'o' for outer.
+6. Note: Entering fault datatypes will bring errors.
 
-7. Note: Entering fault datatypes will bring errors.
+7. Note: You need to edit the full path of the assets inside GUI.py file line 13 
+         put the full path of frame0 folder in assets folder
 __________________________________________________________________
 
 ## Enjoy our graphical interface :)
