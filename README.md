@@ -1,4 +1,4 @@
-## Disc Shedualing algorithms GUI
+## Disc Sheduling algorithms GUI
     - This guide will help you visualize disc schedualing techniques using GUI.
     
 # Note
