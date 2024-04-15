@@ -1,5 +1,5 @@
 ## Disc Sheduling algorithms GUI
-    - This guide will help you visualize disc schedualing techniques using GUI.
+    - This guide will help you visualize disc scheduling techniques using GUI.
     
 # Note
    - You need to edit the full path of the assets inside GUI.py file line 13 
